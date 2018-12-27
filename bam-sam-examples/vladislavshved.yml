@@ -1,0 +1,39 @@
+name: Vladislav Shved
+location: 'Belarus, Minsk'
+timezone: UTC+03
+
+# be a mentor
+bam:
+    skills:
+        - 'Diverse programming language experience'
+        - 'Algorithms and data structures'
+        - 'Database management system'
+        - 'Olympiad programming'
+    languages:
+        - Ruby
+        - C#
+        - JavaScript
+        - Prolog
+        - C++
+     frameworks:
+        - Rails
+        - ASP.NET
+        - Ember.js
+        - Visual Prolog
+
+sam:
+    skills:
+        - 'No deep expertise in javascript frameworks'
+        - 'Lack of front-end experience'
+        - 'Lack of experience of software development processes'
+        - 'Sometimes hard to communicate with team members'
+    languages:
+        - JavaScript
+        - Elixir
+        - Java
+     frameworks:
+        - Angular.js
+        - React.js
+        - Phoenix
+        - Spring
+        - Node.js
